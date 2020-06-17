@@ -6,3 +6,4 @@ Rdatasets
 composer.lock
 
 yarn.lock
+.vscode/settings.json
